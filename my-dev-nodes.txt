@@ -1,0 +1,26 @@
+total 100K
+drwxrwxr-x.  2 fakepro fakepro 4.0K Feb 19 09:03 cit173_lab4
+drwx------. 16 fakepro fakepro 4.0K Feb 19 09:02 .
+drwx------. 14 fakepro fakepro 4.0K Feb 19 09:01 .config
+drwx------. 14 fakepro fakepro 4.0K Feb 19 09:01 .cache
+-rw-r-----.  1 fakepro fakepro    5 Feb 19 08:59 .vboxclient-clipboard.pid
+-rw-r-----.  1 fakepro fakepro    5 Feb 19 08:59 .vboxclient-display.pid
+-rw-r-----.  1 fakepro fakepro    5 Feb 19 08:59 .vboxclient-draganddrop.pid
+-rw-r-----.  1 fakepro fakepro    5 Feb 19 08:59 .vboxclient-seamless.pid
+drwxrw----.  3 fakepro fakepro 4.0K Feb 19 08:59 .pki
+drwxr-xr-x.  2 fakepro fakepro 4.0K Feb 19 08:59 Documents
+drwxr-xr-x.  2 fakepro fakepro 4.0K Feb 19 08:59 Music
+drwxr-xr-x.  2 fakepro fakepro 4.0K Feb 19 08:59 Pictures
+drwxr-xr-x.  2 fakepro fakepro 4.0K Feb 19 08:59 Public
+drwxr-xr-x.  2 fakepro fakepro 4.0K Feb 19 08:59 Templates
+drwxr-xr-x.  2 fakepro fakepro 4.0K Feb 19 08:59 Videos
+drwxr-xr-x.  2 fakepro fakepro 4.0K Feb 19 08:59 Desktop
+drwxr-xr-x.  2 fakepro fakepro 4.0K Feb 19 08:59 Downloads
+drwx------.  3 fakepro fakepro 4.0K Feb 19 08:59 .local
+-rw-------.  1 fakepro fakepro  310 Feb 19 08:59 .ICEauthority
+-rw-------.  1 fakepro fakepro   16 Feb 19 08:59 .esd_auth
+drwxr-xr-x.  3 root    root    4.0K Feb 19 08:59 ..
+drwxr-xr-x.  4 fakepro fakepro 4.0K Oct 24 16:58 .mozilla
+-rw-r--r--.  1 fakepro fakepro   18 Oct  8 06:41 .bash_logout
+-rw-r--r--.  1 fakepro fakepro  141 Oct  8 06:41 .bash_profile
+-rw-r--r--.  1 fakepro fakepro  312 Oct  8 06:41 .bashrc

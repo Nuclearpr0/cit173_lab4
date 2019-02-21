@@ -1,0 +1,3 @@
+[fakepro@localhost cit173_lab4]$ cat my-dev-nodes.txt > /dev/full
+cat: write error: No space left on device
+
